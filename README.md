@@ -1,2 +1,1 @@
-# FRAP-Tracker-by-IGB
-FRAP Tracker code files
+FRAP-Tracker BASIC is a Python-based tool for analyzing FRAP (Fluorescence Recovery After Photobleaching) experiments where cellular structures (nucleus and foci) may move between frames. The program features automatic nucleus tracking using phase correlation and calculates foci position relative to the nucleus, eliminating the need for manual ROI selection on each frame.
